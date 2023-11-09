@@ -1,0 +1,2 @@
+goModuleTest
+
